@@ -1,0 +1,38 @@
+*{
+    list-style-type: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+  
+}
+.c1{
+  
+    position: absolute;
+  
+  
+}
+.c2{
+position: relative;
+display: flex;
+align-items: center;
+justify-content: center;
+background-color: greenyellow;
+width: 100%; 
+height: 75px;
+}
+.c3{
+    position: absolute;
+     padding-top:15%;
+    padding-left: 10%;
+    
+}
+.c3 img{
+    border: 2px solid black;
+}
+.c4{
+    position: absolute;
+  padding-top: 20%;
+  padding-left: 60%;
+  
+    font-size: xx-large; 
+}
